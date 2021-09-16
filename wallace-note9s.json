@@ -1,0 +1,95 @@
+{
+    "inventories": {
+      "Character": {
+        "Jonah": 5,
+        "Florence": 3,
+        "Leo": 1,
+        "Hope": 4,
+        "Kaito": 2,
+        "Viktoria": 0,
+        "Diana": 0
+      },
+      "Racket": {
+        "Starter Racket": 0,
+        "The Eagle": 8,
+        "The Patriot": 5,
+        "The Outback": 3,
+        "The Panther": 2,
+        "The Samurai": 2
+      },
+      "Grip": {
+        "Starter Grip": 0,
+        "The Warrior": 8,
+        "The Talon": 4,
+        "The Machete": 2,
+        "The Cobra": 3,
+        "The Katana": 2
+      },
+      "Shoe": {
+        "Starter Shoes": 0,
+        "The Feather": 3,
+        "The Raptor": 8,
+        "The Hunter": 5,
+        "The Piranha": 4,
+        "The Anvil": 2
+      },
+      "Wristband": {
+        "Starter Band": 0,
+        "The Tomahawk": 6,
+        "The Rocket": 5,
+        "Jolly Roger": 5,
+        "The Macaw": 0
+      },
+      "Nutrition": {
+        "Starter Protein": 0,
+        "Lean Protein": 5,
+        "Increased Hydration": 8,
+        "Macrobiotic": 3,
+        "Vegan Diet": 2
+      },
+      "Workout": {
+        "Starter Training": 0,
+        "Endurance": 8,
+        "Sprint": 5,
+        "Plyometrics": 2,
+        "Powerlifting": 3,
+        "Weight lifting": 0
+      }
+    },
+    "configs": {
+      "Agility": 1,
+      "Stamina": 1,
+      "Serve": 1,
+      "Volley": 1,
+      "Forehand": 1,
+      "Backhand": 1,
+      "levelCap": 6
+    },
+    "configs5": {
+      "Agility": 1,
+      "Stamina": 1,
+      "Serve": 1,
+      "Volley": 1,
+      "Forehand": 1,
+      "Backhand": 1,
+      "levelCap": 5
+    },
+    "configs6": {
+      "Agility": 1,
+      "Stamina": 1,
+      "Serve": 1,
+      "Volley": 1,
+      "Forehand": 1,
+      "Backhand": 1,
+      "levelCap": 6
+    },
+    "configs12": {
+      "Agility": 1,
+      "Stamina": 1,
+      "Serve": 1,
+      "Volley": 1,
+      "Forehand": 1,
+      "Backhand": 1,
+      "levelCap": 12
+    }
+  }
