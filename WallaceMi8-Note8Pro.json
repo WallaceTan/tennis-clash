@@ -1,27 +1,23 @@
 {
   "inventories": {
     "Character": {
-      "Jonah": 5,
-      "Florence": 3,
+      "Jonah": 4,
+      "Florence": 4,
       "Leo": 1,
-      "Hope": 5,
-      "Omar": 0,
-      "Kaito": 2,
-      "Viktoria": 0,
-      "Diana": 0
+      "Hope": 2,
+      "Omar": 0
     },
     "Racket": {
       "Starter Racket": 0,
       "The Eagle": 8,
       "The Outback": 3,
       "The Panther": 2,
-      "The Samurai": 2,
-      "The Patriot": 5
+      "The Samurai": 2
     },
     "Grip": {
       "Starter Grip": 0,
       "The Warrior": 8,
-      "The Talon": 4,
+      "The Talon": 5,
       "The Machete": 2,
       "The Cobra": 3,
       "The Katana": 2
@@ -29,30 +25,29 @@
     "Shoe": {
       "Starter Shoes": 0,
       "The Feather": 4,
-      "The Raptor": 8,
-      "The Hunter": 5,
-      "The Piranha": 4,
-      "The Anvil": 2
+      "The Raptor": 7,
+      "The Hunter": 3,
+      "The Piranha": 3
     },
     "Wristband": {
       "Starter Band": 0,
-      "The Tomahawk": 6,
-      "The Rocket": 5,
-      "Jolly Roger": 5,
+      "The Tomahawk": 5,
+      "The Rocket": 7,
+      "Jolly Roger": 4,
       "The Macaw": 0
     },
     "Nutrition": {
       "Starter Protein": 0,
-      "Lean Protein": 5,
-      "Increased Hydration": 8,
-      "Macrobiotic": 3,
-      "Vegan Diet": 2
+      "Lean Protein": 3,
+      "Increased Hydration": 7,
+      "Macrobiotic": 4,
+      "Vegan Diet": 0
     },
     "Workout": {
       "Starter Training": 0,
       "Endurance": 8,
-      "Sprint": 5,
-      "Plyometrics": 2,
+      "Sprint": 4,
+      "Plyometrics": 1,
       "Powerlifting": 3,
       "Weight lifting": 0
     }
@@ -64,7 +59,7 @@
     "Volley": 1,
     "Forehand": 1,
     "Backhand": 1,
-    "levelCap": 6
+    "levelCap": 4
   },
   "configs4": {
     "Agility": 1,
